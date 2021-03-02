@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1179.5 225.8" style="enable-background:new 0 0 1179.5 225.8;" xml:space="preserve">
+	 viewBox="0 0 966.7 256" style="enable-background:new 0 0 966.7 256;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:#1296DB;}
-	.st2{font-family:'STCaiyun';}
-	.st3{font-size:200px;}
+	.st0{fill:#2366D1;}
+	.st1{fill:#609DFF;}
+	.st2{fill:#A4C7FF;}
+	.st3{font-family:'STCaiyun';}
+	.st4{font-size:180px;}
 </style>
-<g>
-	<rect id="canvas_background" x="-1" y="-1" class="st0" width="1470" height="259"/>
-</g>
-<g>
-	<g id="svg_17">
-		<path id="svg_16" class="st1" d="M235.6,19.4c-46.2,0.1-84.3,35.6-87,81h-0.3v15.2c0,30.7-25.3,55.7-56.5,55.7
-			s-56.5-24.9-56.5-55.7c0-30.7,25.3-55.7,56.5-55.7v25.3l61.6-40.5L91.8,4.2v25.3C43.6,29.5,4.5,68,4.4,115.5s39,86.1,87.2,86.2
-			c46.3,0.1,84.5-35.5,87.3-81h0.3v-15.2c0-30.7,25.3-55.7,56.5-55.7s56.5,24.9,56.5,55.7c0,30.7-25.3,55.7-56.5,55.7v-25.3
-			L174,176.3l61.6,40.5v-25.3c48.2,0,87.3-38.5,87.3-86.1C322.9,57.9,283.8,19.4,235.6,19.4"/>
-	</g>
-	<text transform="matrix(1 0 0 1 349.0086 176.9707)" class="st2 st3">Odysseus</text>
-</g>
+<path class="st0" d="M110.9,128l110.9,64l-110.9,64L0,192L110.9,128z"/>
+<path class="st1" d="M110.9,64l110.9,64l-110.9,64L0,128L110.9,64z"/>
+<path class="st2" d="M110.9,0l110.9,64l-110.9,64L0,64L110.9,0z"/>
+<text transform="matrix(1 0 0 1 232.2337 183.4006)" class="st3 st4">Odysseus</text>
 </svg>
