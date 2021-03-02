@@ -1,20 +1,23 @@
-<svg width="1468" height="257" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="259" width="1470" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <text font-weight="normal" font-style="normal" stroke="null" transform="matrix(10.132549926978276,0,0,10.132549926978276,-4357.226964999868,-872.6732430709352) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_7" y="106.182787" x="475" stroke-opacity="null" stroke-width="0" fill="#4c4c4c">Odysseus</text>
-  <defs>
-   <style type="text/css"/>
-  </defs>
-  <defs>
-   <style type="text/css"/>
-  </defs>
-  <g stroke="null" id="svg_17">
-   <path stroke="null" id="svg_16" fill="#1296db" d="m281.272886,21.599824a103.074016,101.593569 0 0 0 -102.713278,95.579695l-0.310312,0l0,17.923104a66.6589,65.701482 0 1 1 -66.670537,-65.705305l0,29.859097l72.729379,-47.789847l-72.729379,-47.789847l0,29.885859a103.039106,101.559161 0 1 0 102.744309,107.527157l0.298675,0l0,-17.926928a66.6589,65.701482 0 1 1 66.6589,65.709129l0,-29.874389l-72.717743,47.789847l72.717743,47.789847l0,-29.870566a103.039106,101.559161 0 0 0 0,-203.118321"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1179.5 225.8" style="enable-background:new 0 0 1179.5 225.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#1296DB;}
+	.st2{font-family:'STCaiyun';}
+	.st3{font-size:200px;}
+</style>
+<g>
+	<rect id="canvas_background" x="-1" y="-1" class="st0" width="1470" height="259"/>
+</g>
+<g>
+	<g id="svg_17">
+		<path id="svg_16" class="st1" d="M235.6,19.4c-46.2,0.1-84.3,35.6-87,81h-0.3v15.2c0,30.7-25.3,55.7-56.5,55.7
+			s-56.5-24.9-56.5-55.7c0-30.7,25.3-55.7,56.5-55.7v25.3l61.6-40.5L91.8,4.2v25.3C43.6,29.5,4.5,68,4.4,115.5s39,86.1,87.2,86.2
+			c46.3,0.1,84.5-35.5,87.3-81h0.3v-15.2c0-30.7,25.3-55.7,56.5-55.7s56.5,24.9,56.5,55.7c0,30.7-25.3,55.7-56.5,55.7v-25.3
+			L174,176.3l61.6,40.5v-25.3c48.2,0,87.3-38.5,87.3-86.1C322.9,57.9,283.8,19.4,235.6,19.4"/>
+	</g>
+	<text transform="matrix(1 0 0 1 349.0086 176.9707)" class="st2 st3">Odysseus</text>
+</g>
 </svg>
