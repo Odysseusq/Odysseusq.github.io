@@ -1,0 +1,20 @@
+<svg width="1468" height="257" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="259" width="1470" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="normal" font-style="normal" stroke="null" transform="matrix(10.132549926978276,0,0,10.132549926978276,-4357.226964999868,-872.6732430709352) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_7" y="106.182787" x="475" stroke-opacity="null" stroke-width="0" fill="#4c4c4c">Odysseus</text>
+  <defs>
+   <style type="text/css"/>
+  </defs>
+  <defs>
+   <style type="text/css"/>
+  </defs>
+  <g stroke="null" id="svg_17">
+   <path stroke="null" id="svg_16" fill="#1296db" d="m281.272886,21.599824a103.074016,101.593569 0 0 0 -102.713278,95.579695l-0.310312,0l0,17.923104a66.6589,65.701482 0 1 1 -66.670537,-65.705305l0,29.859097l72.729379,-47.789847l-72.729379,-47.789847l0,29.885859a103.039106,101.559161 0 1 0 102.744309,107.527157l0.298675,0l0,-17.926928a66.6589,65.701482 0 1 1 66.6589,65.709129l0,-29.874389l-72.717743,47.789847l72.717743,47.789847l0,-29.870566a103.039106,101.559161 0 0 0 0,-203.118321"/>
+  </g>
+ </g>
+</svg>
